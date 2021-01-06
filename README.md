@@ -22,25 +22,40 @@
 3.a). **Calculus** - Basics  of all topics in general books by
    - **George Thomas** , calculus
    - **NCERT** books 11'th , 12'th ,lectures by [**Eddie Woo**](https://www.youtube.com/user/misterwootube/playlists) on certain school topics
+   - Calculus I and II by Dr. Trefor Bazett([I](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m), [II](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n) )
+   - A perspective on derivative by [Aleph 0](https://www.youtube.com/watch?v=2ptFnIj71SM)
    - Advanced Engineering maths -    **Erwyn Kreyszig**,
    - Advanced Engineering maths -  **Michael D. Greenberg**
 
 3.b) Advanced topics, but essential ones as follows
 
 - [Essence of calculus videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)   -3Blue1Brown
+- Multivariate calculus by [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc_CvEy7xBKRQr6I214QJcd)
 - **Vector Calculus** -
+
   - Divergence, grad, curl and all that. **Book by H.M.Schey** (along with some related videos by 3Blue1Brown and **video lecture on** [**multivariable calculus**](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) **by Khan Academy** )
+  - Vector calculus lectures by [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfW0GMqeUE1bLKaYor6kbHa)
+  - Stokes theorem nicely explained by [Aleph 0](https://www.youtube.com/watch?v=1lGM5DEdMaw&t=40s)
 - **Tensors**
+  
+  - Tensors for begineers and Tensor Calculus videos lectures by [eigenchris](https://www.youtube.com/user/eigenchris/playlists)
+  - Introduction to Tensor Calculus video lectures by [MathTheBeautiful](https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq)
   - Video lecture [playlist by WHYBmaths](https://www.youtube.com/playlist?list=PLxBAVPVHJPcrp0zSqnBcGNHx-OzIWg7A2)
+  - Video by [Aleph 0](https://www.youtube.com/watch?v=q9bzrCKgax0&t=114s) on Tensor Product
   - Book by **Daniel Fleisch (guide for vectors and tensors)**
   - Book by **Harry Lass- vector and tensor analysis**
   - Book by **Rutherford Aris – vectors, tensors and basic Fluid Mech eqns.**
   - Digression into continuum mechanics using tensor notations (optional)
 
       - Books By Gurtin Morton on continuum mechanics
+      
 - **Functional analysis**
   - Book titled A friendly approach to functional analysis **by Amol Sasane**
+  - Video lecture playlist by [The bright side of mathematics](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)
 - **Differential equations (DE)**—
+  
+  - Differential Equations basics video lecture playlist by [Dr Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcJXnLr08cyNaup4RDsbAl1)
+  - Assorted topics in ODEs by [Faculty of Khan](https://www.youtube.com/playlist?list=PLdgVBOaXkb9ATVsK2Q84ghjBgIk5faHNc) 
   - Book by **Zill and Cullen**
   - Book by **George F. Simmons** ,
   - Book by **William Boyce** ,
@@ -48,6 +63,8 @@
   - Video by 3blue1brown on [Differential equation](https://www.youtube.com/watch?v=p_di4Zn4wz4&t=1s), [Fourier series](https://www.youtube.com/watch?v=r6sGWTCMz2k) and [Fourier transform](https://www.youtube.com/watch?v=spUNpyF58BY), videos by [commutant](https://www.youtube.com/playlist?list=PLwIFHT1FWIUJYuP5y6YEM4WWrY4kEmIuS)
   - Video on [Laplace transforms](https://www.youtube.com/watch?v=n2y7n6jw5d0) by Zach Star
   - **PDEs**
+    
+    - PDEs by [Faculty of Khan](https://www.youtube.com/playlist?list=PLdgVBOaXkb9Ab7UM8sCfQWgdbzxkXTNVD)
     - Video by 3blue1brown, Khan academy, [Steve burton](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw/playlists) series on solving PDEs, lectures at [ICTP](https://www.youtube.com/playlist?list=PLLq_gUfXAnkkvL_UoCGivS0wOYhwCtczI) , [MathTheBeautiful](https://www.youtube.com/playlist?list=PLlXfTHzgMRUK56vbQgzCVM9vxjKxc8DCr) , [commutant](https://www.youtube.com/playlist?list=PLF6061160B55B0203)
     - Book by **Lawrence Evans** for advanced topics. Basic ones already covered in previous books) ,
     - Book by **Stanley Farlow** on PDE
@@ -56,6 +73,7 @@
 
       - [Lectures](https://www.youtube.com/playlist?list=PLjJ7kkgUwlXNPU_zmD8zW-FOAs5irGgy_) on Basic perturbation theory by **Nitin Upadhyaya**.
       - Asymptotic methods and perturbations theory –advanced mathematics methods Book by **Carl Bender and Orszag**. and related videos [here](https://www.youtube.com/playlist?list=PL_LAJKOptm3ZWZHVNr8FmMzsWgb989ltu)
+      - Calculus of variations by [Faculty of Khan](https://www.youtube.com/playlist?list=PLdgVBOaXkb9CD8igcUr9Fmn5WXLpE8ZE_)
       - [Lectures](https://www.youtube.com/user/ICTStalks/search?query=perturbation%20methods%20for%20nonlinear%20PDEs) on Perturbation methods for nonlinear PDEs by **Dr. Vishal Vasan**
       - Nonlinear dynamics and chaos by **Steven strogatz** and his lectures [here](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) . Lectures on same topic [by **V.Balakrishnan**](https://www.youtube.com/playlist?list=PLbMVogVj5nJQKk1E7OUQs_TcW_zQoaO4t)
       - Digression to mathematical physics topics (optional)
@@ -67,7 +85,7 @@
         - Variational methods – books by **J.N.Reddy**
         
 - **Complex variables and complex calculus** –
-  - Video lecture by [Herbert gross MIT](https://www.youtube.com/playlist?list=PLD971E94905A70448), followed by [this](https://www.youtube.com/playlist?list=PLzUP4YyNI683Nfm_X70P11m9q0IXstw7p), [this](https://www.youtube.com/playlist?list=PLdgVBOaXkb9CNMqbsL9GTWwU542DiRrPB) and [this](https://www.youtube.com/playlist?list=PL_onPhFCkVQjdQTbG0eQk42eH0RaBoYJf).
+  - Video lecture by [Herbert gross MIT](https://www.youtube.com/playlist?list=PLD971E94905A70448), followed by [this](https://www.youtube.com/playlist?list=PLzUP4YyNI683Nfm_X70P11m9q0IXstw7p), and [this](https://www.youtube.com/playlist?list=PLdgVBOaXkb9CNMqbsL9GTWwU542DiRrPB).
   - Video lectures full [playlist](https://www.youtube.com/playlist?list=PL_onPhFCkVQjdQTbG0eQk42eH0RaBoYJf) by Prof **Petra Bonfert-Taylor**
   - Video lectures [playlist](https://www.youtube.com/playlist?list=PLjJ7kkgUwlXPflA-3gSzQWp8OgeI1LJVC) by Nitin Upadhyaya
   - Book by Functions of a complex variable- **Carrier, crook and Pearson**
