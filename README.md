@@ -21,7 +21,7 @@
 
 3.a). **Calculus** - Basics  of all topics in general books by
    - **George Thomas** , calculus
-   - **NCERT** books 11'th , 12'th ,lectures by [**Eddie Woo**](https://www.youtube.com/user/misterwootube/playlists) on certain school topics
+   - [**NCERT**](https://ncert.nic.in/textbook.php) books 11'th , 12'th ,lectures by [**Eddie Woo**](https://www.youtube.com/user/misterwootube/playlists) on certain school topics
    - Calculus I and II by Dr. Trefor Bazett([I](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m), [II](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n) )
    - A perspective on derivative by [Aleph 0](https://www.youtube.com/watch?v=2ptFnIj71SM)
    - Advanced Engineering maths -    **Erwyn Kreyszig**,
