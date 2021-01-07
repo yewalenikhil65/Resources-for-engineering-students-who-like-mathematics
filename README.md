@@ -110,6 +110,7 @@ Advanced miscellaneous mathematical methods books that cover almost all topics m
 - Wolfram, MATLAB
 - University channels: MIT opencourseware, Oxford mathematics, ICTS-TIFR, Institute of pure and applied mathematics, and all other nice universities across globe,
 - Steve Burton, Brian Douglas, Zach Star
+- Dr Trefor Bazett
 - Physics videos by Eugene Khutoryansky
 - The Bright Side of Mathematics , Numberphile, Mathologer, MathTheBeautiful
 - Veritasium, Smarter every day
