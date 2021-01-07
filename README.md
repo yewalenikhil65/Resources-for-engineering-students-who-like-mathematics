@@ -12,7 +12,7 @@
     If wish to understand why and how linear solvers and Eigen solvers work in addition to previous books: follow these advanced ones …
 
     - Book by **Golub G.H and Van Loan**- Matrix Computations
-    - Iterative methods (2 books) by **Yousuf saad**
+    - Iterative methods (2 books) by [**Yousuf saad**](https://www-users.cs.umn.edu/~saad/)
 
 2. Book **Play with graphs –Amit Agarwal** (don&#39;t follow rigorously, because of easy availability of interactive plotting tools these days.. but do go through it someday)
 
