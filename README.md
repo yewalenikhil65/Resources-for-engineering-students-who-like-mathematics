@@ -4,9 +4,9 @@
 
    - **Book by Gilbert strang**
    - [Essence of linear algebra](https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B) videos - 3Blue1Brown
-   - **Book by Lyod Trefethen and David Bau** (for bit different perspective but in more depth that Gilbert strang)
-   - **Book by Hoffman and Kunze**
-   - **Book by Sheldon Axler ..** Linear Algebra done right
+   - Book by **[Lyod Trefethen and David Bau](http://people.maths.ox.ac.uk/~trefethen/text.html)** (for bit different perspective but in more depth that Gilbert strang)
+   - Book by **Hoffman and Kunze**
+   - Book by **Sheldon Axler** Linear Algebra done right
    - **video lecture** [**playlist**](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw) **based on book by Sheldon axler**
 
     If wish to understand why and how linear solvers and Eigen solvers work in addition to previous books: follow these advanced ones …
