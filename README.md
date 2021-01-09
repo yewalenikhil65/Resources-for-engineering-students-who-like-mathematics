@@ -23,6 +23,7 @@
    - **George Thomas** , calculus
    - [**NCERT**](https://ncert.nic.in/textbook.php) books 11'th , 12'th ,lectures by [**Eddie Woo**](https://www.youtube.com/user/misterwootube/playlists) on certain school topics
    - Calculus I and II by Dr. Trefor Bazett([I](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m), [II](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n) )
+   - Oxford calculus video lectures by [Dr. Tom Crawford](https://www.youtube.com/playlist?list=PLMCRxGutHqflZoTY8JCm1GRzCdGXvZ3_S)
    - A perspective on derivative by [Aleph 0](https://www.youtube.com/watch?v=2ptFnIj71SM)
    - Advanced Engineering maths -    **Erwyn Kreyszig**,
    - Advanced Engineering maths -  **Michael D. Greenberg**
@@ -119,3 +120,4 @@ Advanced miscellaneous mathematical methods books that cover almost all topics m
 - Mathematical monk, commutant.
 - Aleph 0
 - Flammable Maths
+- Tom Rocks Maths
