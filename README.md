@@ -85,6 +85,7 @@
         - Variational methods – books by **J.N.Reddy**
         
 - **Complex variables and complex calculus** –
+  - A video playlist titled **Imaginary Numbers are Real** by [Welch labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9g6KIvZ_703G3KJXapKkNaF)
   - Video lecture by [Herbert gross MIT](https://www.youtube.com/playlist?list=PLD971E94905A70448), followed by [this](https://www.youtube.com/playlist?list=PLzUP4YyNI683Nfm_X70P11m9q0IXstw7p), and [this](https://www.youtube.com/playlist?list=PLdgVBOaXkb9CNMqbsL9GTWwU542DiRrPB).
   - Video lectures full [playlist](https://www.youtube.com/playlist?list=PL_onPhFCkVQjdQTbG0eQk42eH0RaBoYJf) by Prof **Petra Bonfert-Taylor**
   - Video lectures [playlist](https://www.youtube.com/playlist?list=PLjJ7kkgUwlXPflA-3gSzQWp8OgeI1LJVC) by Nitin Upadhyaya
