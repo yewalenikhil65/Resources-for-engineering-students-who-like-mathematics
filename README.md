@@ -20,6 +20,7 @@
      Geogebra, Desmos, or python libraries like- maxim etc.
 
 3.a). **Calculus** - Basics  of all topics in general books by
+   - [Essence of calculus videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)   -3Blue1Brown
    - **George Thomas** , calculus
    - [**NCERT**](https://ncert.nic.in/textbook.php) books 11'th , 12'th ,lectures by [**Eddie Woo**](https://www.youtube.com/user/misterwootube/playlists) on certain school topics
    - Calculus I and II by Dr. Trefor Bazett([I](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfT9RMcReZ4WcoVILP4k6-m), [II](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n) )
@@ -30,8 +31,8 @@
 
 3.b) Advanced topics, but essential ones as follows
 
-- [Essence of calculus videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)   -3Blue1Brown
 - Multivariate calculus by [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxc_CvEy7xBKRQr6I214QJcd)
+
 - **Vector Calculus** -
 
   - Divergence, grad, curl and all that. **Book by H.M.Schey** (along with some related videos by 3Blue1Brown and **video lecture on** [**multivariable calculus**](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) **by Khan Academy** )
