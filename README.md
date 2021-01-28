@@ -74,6 +74,7 @@
   - Some not so common topics in DEs ,as follows
 
       - [Lectures](https://www.youtube.com/playlist?list=PLjJ7kkgUwlXNPU_zmD8zW-FOAs5irGgy_) on Basic perturbation theory by **Nitin Upadhyaya**.
+      - [Lectures](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA/videos) on Advanced Differential Equations course by Dr. Nathan Kutz
       - Asymptotic methods and perturbations theory –advanced mathematics methods Book by **Carl Bender and Orszag**. and related videos [here](https://www.youtube.com/playlist?list=PL_LAJKOptm3ZWZHVNr8FmMzsWgb989ltu)
       - Calculus of variations by [Faculty of Khan](https://www.youtube.com/playlist?list=PLdgVBOaXkb9CD8igcUr9Fmn5WXLpE8ZE_)
       - [Lectures](https://www.youtube.com/user/ICTStalks/search?query=perturbation%20methods%20for%20nonlinear%20PDEs) on Perturbation methods for nonlinear PDEs by **Dr. Vishal Vasan**
