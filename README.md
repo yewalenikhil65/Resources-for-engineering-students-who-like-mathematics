@@ -121,6 +121,7 @@ Advanced miscellaneous mathematical methods books that cover almost all topics m
 - Veritasium, Smarter every day
 - Welch Labs
 - Mathematical monk, commutant.
+- vcubingx
 - Aleph 0
 - Flammable Maths
 - Tom Rocks Maths
