@@ -56,14 +56,14 @@
   - Video lecture playlist by [The bright side of mathematics](https://www.youtube.com/playlist?list=PLBh2i93oe2qsGKDOsuVVw-OCAfprrnGfr)
 - **Differential equations (DE)**—
   
-  - Differential Equations basics video lecture playlist by [Dr Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcJXnLr08cyNaup4RDsbAl1)
+  - Differential Equations basics video lecture playlist by [Dr Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcJXnLr08cyNaup4RDsbAl1) and by [Flammable Maths](https://www.youtube.com/playlist?list=PLN2B6ZNu6xmfHcoZEZIBA2aX5v6dokW5h)
   - Assorted topics in ODEs by [Faculty of Khan](https://www.youtube.com/playlist?list=PLdgVBOaXkb9ATVsK2Q84ghjBgIk5faHNc) 
   - Book by **Zill and Cullen**
   - Book by **George F. Simmons** ,
   - Book by **William Boyce** ,
   - Book by **Vladimir Arnold**
   - Video by 3blue1brown on [Differential equation](https://www.youtube.com/watch?v=p_di4Zn4wz4&t=1s), [Fourier series](https://www.youtube.com/watch?v=r6sGWTCMz2k) and [Fourier transform](https://www.youtube.com/watch?v=spUNpyF58BY), videos by [commutant](https://www.youtube.com/playlist?list=PLwIFHT1FWIUJYuP5y6YEM4WWrY4kEmIuS)
-  - Video on Laplace transforms by [Zach Star](https://www.youtube.com/watch?v=n2y7n6jw5d0) and [Eugene Khutoryansky](https://www.youtube.com/watch?v=6MXMDrs6ZmA)
+  - Video on Laplace transforms by [Zach Star](https://www.youtube.com/watch?v=n2y7n6jw5d0), [Flammable Maths](https://www.youtube.com/playlist?list=PLN2B6ZNu6xmfaT2IBigUylhfpFFA1L8Mp) and [Eugene Khutoryansky](https://www.youtube.com/watch?v=6MXMDrs6ZmA)
   - **PDEs**
     
     - PDEs by [Faculty of Khan](https://www.youtube.com/playlist?list=PLdgVBOaXkb9Ab7UM8sCfQWgdbzxkXTNVD)
