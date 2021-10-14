@@ -109,19 +109,21 @@ Advanced miscellaneous mathematical methods books that cover almost all topics m
 2. Book by **Riley, Hobson and Bence** -Mathematical methods in physics and engineering
 3. Book by **V. Balakrishnan** – Mathematical methods for physicists. (video lectures [here](https://www.youtube.com/playlist?list=PLbMVogVj5nJRhl_6TUGChpnt2Lg0AZvZu))
 
+[3B1B Summer of Math Exposition playlist](https://www.youtube.com/playlist?list=PLOL6_MKUNdj6FpTN7uXP2QStapHtuA2iJ)
+
 **Summary of important maths YouTube channels to subscribe and follow**
 
-- 3Blue1Brown, Faculty of Khan , Khan academy, Eddie Woo
-- Wolfram, MATLAB
-- University channels: MIT opencourseware, Oxford mathematics, ICTS-TIFR, Institute of pure and applied mathematics, and all other nice universities across globe,
-- Steve Burton, Brian Douglas, Zach Star
-- Dr Trefor Bazett
-- Physics videos by Eugene Khutoryansky
-- The Bright Side of Mathematics , Numberphile, Mathologer, MathTheBeautiful
-- Veritasium, Smarter every day
-- Welch Labs
-- Mathematical monk, commutant.
-- vcubingx
-- Aleph 0
-- Flammable Maths
-- Tom Rocks Maths
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw), [Faculty of Khan](https://www.youtube.com/c/FacultyofKhan) , [Khan academy](https://www.youtube.com/c/khanacademy/playlists?view=50&sort=dd&shelf_id=6), [Eddie Woo](https://www.youtube.com/c/misterwootube)
+- [Wolfram](https://www.youtube.com/user/WolframResearch), [MATLAB](https://www.youtube.com/user/MATLAB)
+- University channels: [MIT opencourseware](https://www.youtube.com/results?search_query=mit+opencourseware+mathematics), [Oxford mathematics](https://www.youtube.com/c/OxfordMathematics), [ICTS-TIFR](https://www.youtube.com/user/ICTStalks/playlists), [Institute of pure and applied mathematics](https://www.youtube.com/c/IPAMUCLA/playlists), and all other nice universities across globe,
+- [Steve Burton](https://www.youtube.com/c/Eigensteve/playlists), [Brian Douglas](https://www.youtube.com/user/ControlLectures/playlists), [Zach Star](https://www.youtube.com/playlist?list=PLi5WqFHu_OJNN-2rHmEOy7NZRNQ43qOuq)
+- [Dr Trefor Bazett](https://www.youtube.com/c/DrTreforBazett/playlists)
+- [Physics videos by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky/playlists)
+- [The Bright Side of Mathematics](https://www.youtube.com/c/brightsideofmaths/playlists) , [Numberphile](https://www.youtube.com/user/numberphile/playlists), [Mathologer](https://www.youtube.com/c/Mathologer/playlists), [MathTheBeautiful](https://www.youtube.com/c/MathTheBeautiful/playlists)
+- [Welch Labs](https://www.youtube.com/c/WelchLabsVideo/playlists)
+- [Mathematical monk](https://www.youtube.com/user/mathematicalmonk/playlists), [commutant](https://www.youtube.com/user/commutant/playlists).
+- [vcubingx](https://www.youtube.com/c/VCubingX/playlists)
+- [Aleph 0](https://www.youtube.com/c/Aleph0/playlists)
+- [Flammable Maths](https://www.youtube.com/c/papaflammy/playlists)
+- [Tom Rocks Maths](https://www.youtube.com/c/TomRocksMaths/playlists)
+- [Julialang](https://www.youtube.com/c/TheJuliaLanguage)
