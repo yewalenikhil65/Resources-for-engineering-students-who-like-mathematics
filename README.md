@@ -68,6 +68,7 @@
     
     - PDEs by [Faculty of Khan](https://www.youtube.com/playlist?list=PLdgVBOaXkb9Ab7UM8sCfQWgdbzxkXTNVD)
     - Video by 3blue1brown, Khan academy, [Steve burton](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw/playlists) series on solving PDEs, lectures at [ICTP](https://www.youtube.com/playlist?list=PLLq_gUfXAnkkvL_UoCGivS0wOYhwCtczI) , [MathTheBeautiful](https://www.youtube.com/playlist?list=PLlXfTHzgMRUK56vbQgzCVM9vxjKxc8DCr) , [commutant](https://www.youtube.com/playlist?list=PLF6061160B55B0203)
+    - Partial Differential Equations playlist  series by [Giovanni Bellettini](https://www.youtube.com/playlist?list=PLLq_gUfXAnkkvL_UoCGivS0wOYhwCtczI)
     - Book by **Lawrence Evans** for advanced topics. Basic ones already covered in previous books) ,
     - Book by **Stanley Farlow** on PDE
     - Book by **Arnold Sommerfeld** on PDE
