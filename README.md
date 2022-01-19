@@ -97,6 +97,7 @@
   - Book by Functions of a complex variable- **Carrier, crook and Pearson**
   - Book by **Tristhan Needham** - Visual complex analysis
   - Book by **Ablowitz and Fokas** - Complex variables
+  - Video on [Complex Differentiation by vcubingx](https://www.youtube.com/watch?v=0CHZMY02Dhk&t=7s)
 - Spectral methods by **Boyd** (some of his free books) [here](http://www-personal.umich.edu/~jpboyd/).
 
 - **Applied mathematics by MIT (applications to scientific computing). course material available on github** [**here**](https://github.com/mitmath)
