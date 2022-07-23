@@ -130,6 +130,7 @@ Advanced miscellaneous mathematical methods books that cover almost all topics m
 - [Julialang](https://www.youtube.com/c/TheJuliaLanguage)
 
 **Programming materials and challenges websites**
+
 I feel like this list needs programming resources, because learning how to code also improves the life of an engineer. Even math becomes faster to do when you develop better tools for it, the best way to do it as far as I can tell is by programming.
 - [curated programming resources list](https://github.com/Michael0x2a/curated-programming-resources)
 - [Project Euler](https://projecteuler.net/)
