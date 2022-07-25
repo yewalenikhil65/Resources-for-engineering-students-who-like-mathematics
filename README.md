@@ -104,7 +104,6 @@
 
 Other topics and engineering applications of which I don&#39;t have much ideas or did not follow much are real analysis, probability, statistical methods, group theory, and measure theory, etc. Please contribute to the list if you recommend any.
 
-
 Advanced miscellaneous mathematical methods books that cover almost all topics mentioned above and even more, but used generally for reference and problem practice purpose:
 
 1. Book by **George Arken and Weber** –Mathematical methods for physicists
@@ -129,3 +128,9 @@ Advanced miscellaneous mathematical methods books that cover almost all topics m
 - [Flammable Maths](https://www.youtube.com/c/papaflammy/playlists)
 - [Tom Rocks Maths](https://www.youtube.com/c/TomRocksMaths/playlists)
 - [Julialang](https://www.youtube.com/c/TheJuliaLanguage)
+
+**Programming materials and challenges websites**
+
+I feel like this list needs programming resources, because learning how to code also improves the life of an engineer. Even math becomes faster to do when you develop better tools for it, the best way to do it as far as I can tell is by programming.
+- [curated programming resources list](https://github.com/Michael0x2a/curated-programming-resources)
+- [Project Euler](https://projecteuler.net/)
